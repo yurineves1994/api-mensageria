@@ -36,7 +36,7 @@ Nesse projeto eu utilizei o docker-compose para rodar o sistema e o banco de dad
 
       docker-compose up -d
 
-  Isso iniciará os contêineres definidos no arquivo docker-compose.yml. Aguarde até que todos os serviços estejam em execução.
+  Isso iniciará os contêineres definidos no arquivo docker-compose.yml. Aguarde até que todos os serviços estejam em execução. (se atente as portas utilizadas dentro do docker-compose para ter certeza que não estão sendo utilizadas
 
   - Acesse a Aplicação:
 
